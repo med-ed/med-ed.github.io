@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Med-Ed Portal
-email: dhillonv10@gmail.com
+email: testing@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Med-Ed Search Portal
 baseurl: "" # the subpath of your site, e.g. /blog
