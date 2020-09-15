@@ -25,11 +25,9 @@ github_username:  med-ed
 # Build settings
 markdown: kramdown
 theme: minima
-plugins:
-  - jekyll-feed
 
 
 algolia:
-  application_id: 'C65DOHAW21'
+  application_id: C65DOHAW21
   index_name: jekyll
-  search_only_api_key: 11eac6c0577446d9f45e374e50f15fe0
+  search_only_api_key: '11eac6c0577446d9f45e374e50f15fe0'
