@@ -1,0 +1,11 @@
+.DS_Store
+.jekyll-metadata
+.sass-cache
+Thumbs.db
+bower_components
+node_modules
+npm-debug.log
+tmp
+*~
+_algolia_api_key
+_site
